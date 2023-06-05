@@ -109,6 +109,6 @@ public class MyLine {
 
     // Return a string representation of the line
     public String toString() {
-        return("MyLine[begin=(" + getBeginX() + "," + getBeginY() + ")" + ",end=(" + getEndX() + "," + getEndY() + ")");
+        return("MyLine[begin=(" + getBeginX() + "," + getBeginY() + ")" + ",end=(" + getEndX() + "," + getEndY() + ")]");
     }
 }
